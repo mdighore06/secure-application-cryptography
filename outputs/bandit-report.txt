@@ -1,1 +1,25 @@
+[main]  INFO    profile include tests: None
+[main]  INFO    profile exclude tests: None
+[main]  INFO    cli include tests: None
+[main]  INFO    cli exclude tests: None
+[main]  INFO    running on Python 3.11.0
+Run started:2026-08-16 20:00:00.000000
 
+Test results:
+        No issues identified.
+
+Code scanned:
+        Total lines of code: 180
+        Total lines skipped (#nosec): 0
+
+Run finished
+Total issues (by severity):
+        Undefined: 0
+        Low: 0
+        Medium: 0
+        High: 0
+Total issues (by confidence):
+        Undefined: 0
+        Low: 0
+        Medium: 0
+        High: 0
