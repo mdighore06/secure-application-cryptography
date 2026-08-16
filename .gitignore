@@ -1,1 +1,23 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment secrets
+.env
+.env.local
+.env.*
+!.env.example
+
+# SQLite Database
+*.db
+*.sqlite3
+
+# Test caches
+.pytest_cache/
+.coverage
