@@ -1,1 +1,7 @@
-
+Flask==3.0.3
+argon2-cffi==23.1.0
+python-dotenv==1.0.1
+PyJWT==2.8.0
+bandit==1.7.9
+semgrep==1.78.0
+pytest==8.2.2
