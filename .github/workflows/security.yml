@@ -28,7 +28,6 @@ jobs:
 
       - name: Run Bandit SAST Step
         run: |
-          # Scans recursively and fails build (non-zero exit) on Medium (-ll) or High severity findings
           bandit -r . -ll -v
 
       - name: Run Semgrep Python Scan (Additional Credit)
